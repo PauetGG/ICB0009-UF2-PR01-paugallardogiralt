@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Hospital.csproj": {}
+    "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Ejercicio1\\Tarea01\\Hospital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Hospital.csproj": {
+    "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Ejercicio1\\Tarea01\\Hospital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Hospital.csproj",
+        "projectUniqueName": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Ejercicio1\\Tarea01\\Hospital.csproj",
         "projectName": "Hospital",
-        "projectPath": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Hospital.csproj",
+        "projectPath": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Ejercicio1\\Tarea01\\Hospital.csproj",
         "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\obj\\",
+        "outputPath": "C:\\Users\\Pau\\Desktop\\ICB0009-UF2-PR01-paugallardogiralt\\Ejercicio1\\Tarea01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config"
