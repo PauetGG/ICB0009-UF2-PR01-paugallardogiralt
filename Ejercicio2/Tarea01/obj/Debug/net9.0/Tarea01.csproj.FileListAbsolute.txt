@@ -1,0 +1,15 @@
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.AssemblyInfoInputs.cache
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.AssemblyInfo.cs
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.sourcelink.json
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\bin\Debug\net9.0\Tarea01.exe
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\bin\Debug\net9.0\Tarea01.deps.json
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\bin\Debug\net9.0\Tarea01.runtimeconfig.json
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\bin\Debug\net9.0\Tarea01.dll
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\bin\Debug\net9.0\Tarea01.pdb
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.dll
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\refint\Tarea01.dll
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.pdb
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\Tarea01.genruntimeconfig.cache
+C:\Users\Pau\Desktop\ICB0009-UF2-PR01-paugallardogiralt\Ejercicio2\Tarea01\obj\Debug\net9.0\ref\Tarea01.dll
